@@ -1,4 +1,5 @@
 
+
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
 
 # <h1 align=center>**`Machine Learning` 🤖 **</h1>
@@ -41,3 +42,9 @@ Contamos con 2 archivos .csv que contienen información sobre la estadía de pac
 :small_blue_diamond: Python :snake:
 :small_orange_diamond: Pandas :panda_face:
 :small_orange_diamond: Sklearn :bar_chart:
+
+
+## **Gracias por leer! :grin:**
+
+
+![ia](https://user-images.githubusercontent.com/82453305/207988802-7c8a9e4d-938b-4cc9-aeb2-a960f4695649.jpg)
